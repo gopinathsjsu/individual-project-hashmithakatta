@@ -7,9 +7,14 @@
    Created a Java application with inventory data , In order to purchase things from three categories: necessities, luxury, and miscellaneous. The maximum number of goods that may be bought in each area is limited. If the user's request is accepted, we prepare a TXT file with the total amount payable as well as the card information to be used for payment.
 
 #### STEPS TO RUN THE APPLICATION
-   Execute the folllowing commands in the terminal
+
+   * Clone the project repository  
+   * Execute the folllowing commands in the terminal
+   
     --> javac Billing.java
+    
     --> java Billing.java
+    
     --> copy the path of input.csv and paste it in the terminal
    
 #### DESIGN PATTERNS
