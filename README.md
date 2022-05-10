@@ -21,4 +21,6 @@
 
 #### CLASS DIAGRAM
 #### SCREENSHOTS OF TEST CASES
+<img width="1440" alt="Screen Shot 2022-05-09 at 9 25 54 PM" src="https://user-images.githubusercontent.com/56205828/167557263-836e811b-ebec-4055-a289-2986b9983e34.png">
+
 
