@@ -1,7 +1,7 @@
 # individual-project-hashmithakatta
-### cmpe-202 - Software System Engineering
-### SJSU - id - 015956876
-### Name - Hashmitha Katta
+#### cmpe-202 - Software System Engineering
+#### SJSU - id - 015956876
+#### Name - Hashmitha Katta
 
 #### PROBLEM STATEMENT
    Created a Java application with inventory data , In order to purchase things from three categories: necessities, luxury, and miscellaneous. The maximum number of goods that may be bought in each area is limited. If the user's request is accepted, we prepare a TXT file with the total amount payable as well as the card information to be used for payment.
