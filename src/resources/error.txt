@@ -1,0 +1,2 @@
+Please correct the following Item
+ItemName : shampoo  category: Essentials is more than the Max Cap
