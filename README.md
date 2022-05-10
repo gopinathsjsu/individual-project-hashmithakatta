@@ -1,2 +1,5 @@
 # individual-project-hashmithakatta
-individual-project-hashmithakatta created by GitHub Classroom
+### cmpe-202 - Software System Engineering
+### SJSU - id - 015956876
+### Name - Hashmitha Katta
+
